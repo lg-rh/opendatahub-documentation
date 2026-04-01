@@ -28,6 +28,12 @@ endif::[]
 +
 Otherwise, custom models with labels configured by your administrator are displayed in a category with the same name as the label set for the custom catalog source. 
 
++
+[NOTE]
+====
+On the `s390x` architecture, only the `granite-3.3-8b-instruct` model is supported. The  `granite-3.3-8b-instruct` model card is available from the *All models* category in the menu bar of the model catalog.
+====
+
 . You can use the search bar to find a model in the catalog. Enter text to search by model name, description, or provider.
 
 . You can use the filter menu to search and select filters by the following labels: 

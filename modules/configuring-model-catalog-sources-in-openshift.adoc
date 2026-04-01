@@ -55,6 +55,9 @@ The sample catalog source entry is described as follows:
 
 . Click *Save*.
 
++
+NOTE: Configuring custom model catalog sources is not supported on the `s390x` architecture.
+
 .Verification
 . In the OpenShift AI dashboard, click *AI hub -> Catalog*.
 . In the menu bar, to view models from your new catalog source:

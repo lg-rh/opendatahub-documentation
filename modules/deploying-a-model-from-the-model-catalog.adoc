@@ -96,6 +96,12 @@ You must add your model as an AI asset endpoint to test your model on the *Gen A
 . On the *Review* page, review the settings that you have selected before deploying the model. 
 . Click *Deploy model*.
 
++
+[NOTE]
+====
+Advanced settings are not supported on the `s390x` architecture
+====
+
 .Verification
 * The model deployment is displayed in the following places in the dashboard: 
 ** The *AI hub* -> *Deployments* page.
